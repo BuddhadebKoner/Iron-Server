@@ -1,0 +1,34 @@
+{
+  "name": "iron-server",
+  "version": "0.1.0",
+  "description": "Scaffold my backend folder structure with one command",
+  "type": "module",
+  "bin": {
+    "iron-server": "./bin/iron-server.js"
+  },
+  "files": [
+    "bin/",
+    "src/"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "cli",
+    "scaffold",
+    "express",
+    "backend",
+    "boilerplate",
+    "generator"
+  ],
+  "author": "Your Name <you@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOURNAME/iron-server.git"
+  },
+  "homepage": "https://github.com/YOURNAME/iron-server#readme",
+  "bugs": {
+    "url": "https://github.com/YOURNAME/iron-server/issues"
+  }
+}
